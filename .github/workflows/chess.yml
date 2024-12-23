@@ -30,11 +30,6 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y libffi-dev libgmp-dev
 
-    - name: Update RubyGems and Bundler
-      run: |
-        gem update --system
-        gem install bundler
-
     - name: Setup Gems
       run: |
         gem install activesupport -v 7.0.3 -N --verbose
