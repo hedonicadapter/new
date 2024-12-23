@@ -29,9 +29,10 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y libffi-dev libgmp-dev
-
+        
     - name: Setup Gems
       run: |
+        gem install public_suffix -v 5.1.1 --verbose
         gem install activesupport -v 7.0.3 -N --verbose
         gem install octokit -v 5.1.0 -N --verbose
         gem install chess -v 0.3.3 -N --verbose
