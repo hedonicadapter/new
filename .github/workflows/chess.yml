@@ -14,7 +14,6 @@ jobs:
         # the triggering issue contains test
         echo "${{ github.event_name }}"
         exit 1
-
     - name: Set env vars
       run: |
         echo "${{ github.event_name }}"
@@ -22,23 +21,26 @@ jobs:
         echo "EVENT_ISSUE_NUMBER=${{ github.event.issue.number }}" >> $GITHUB_ENV
         echo "EVENT_USER_LOGIN=${{ github.event.issue.user.login }}" >> $GITHUB_ENV
 
-      # We <3 Ruby, so let's use it + Octokit to ease the
-      # scripting and API interactions.
-
-      #
-      # I see your :eyes: :). This is all band-aids and stick tape.
-      # Yep... I log like it's 1995 with random "puts" in places.
-      #
-
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: 2.7
 
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libffi-dev libgmp-dev
+
+    - name: Update RubyGems and Bundler
+      run: |
+        gem update --system
+        gem install bundler
+
     - name: Setup Gems
       run: |
-        gem install activesupport -v 7.0.3 -N --silent
-        gem install octokit -v 5.1.0 -N --silent
-        gem install chess -v 0.3.3 -N --silent
+        gem install activesupport -v 7.0.3 -N --verbose
+        gem install octokit -v 5.1.0 -N --verbose
+        gem install chess -v 0.3.3 -N --verbose
+
 
 
     - name: Play
