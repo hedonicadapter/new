@@ -23,7 +23,7 @@ jobs:
 
     - uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7
+        ruby-version: 3.2
 
     - name: Install dependencies
       run: |
@@ -35,7 +35,7 @@ jobs:
           gem install public_suffix -v 5.1.1
           gem install faraday-net_http -v 3.0.2
           gem install securerandom -v 0.3.2
-          gem install activesupport
+          gem install activesupport -v 7.1.5.1
           gem install octokit
           gem install chess
 
