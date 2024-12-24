@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/ff589df3-8a67-427d-b793-f9d5b4507c2c)
-^ Literally me btw
+< Literally me btw
 
 ## Education
 * University of Pennsylvania, Near Eastern Languages and Civilizations, Graduate Student
@@ -12,7 +12,9 @@
 
 ## Find me
 [Academia](https://upenn.academia.edu/HoldenMarshall)
+
 [Onlyfans](https://upenn.academia.edu/HoldenMarshall)
+
 [Private twitter ;)](https://upenn.academia.edu/HoldenMarshall)
 
 ## Fancy a game of chess?
