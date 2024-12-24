@@ -1,7 +1,22 @@
+![image](https://github.com/user-attachments/assets/ff589df3-8a67-427d-b793-f9d5b4507c2c)
+^ Literally me btw
 
-## Tim's Community Chess Tournament
+## Education
+* University of Pennsylvania, Near Eastern Languages and Civilizations, Graduate Student
+* Illinois State University, English, Undergraduate
+* Boston University, Theology, Graduate Student
 
-**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hedonicadapter&amp;show_icons=true&theme=w" alt="GitHub Stats">
+</p>
+
+## Find me
+[Academia](https://upenn.academia.edu/HoldenMarshall)
+[Onlyfans](https://upenn.academia.edu/HoldenMarshall)
+[Private twitter ;)](https://upenn.academia.edu/HoldenMarshall)
+
+## Fancy a game of chess?
+**Game is in progress.** This is open to ANYONE to play the next move. It's your turn! Move a black (solid) piece.  
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
@@ -29,15 +44,7 @@
 | **G2** | [G3](https://github.com/hedonicadapter/chungus/issues/new?title=chess%7Cmove%7Cg2g3%7C14&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/hedonicadapter/chungus/issues/new?title=chess%7Cmove%7Cg2g4%7C14&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H2** | [H3](https://github.com/hedonicadapter/chungus/issues/new?title=chess%7Cmove%7Ch2h3%7C14&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H4](https://github.com/hedonicadapter/chungus/issues/new?title=chess%7Cmove%7Ch2h4%7C14&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
-
-**How this works**
-
-When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
-
-**Notice a problem?**
-
-Raise an [issue](https://github.com/hedonicadapter/chungus/issues), and include the text _cc @timburgan_.
+Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/hmarsh97)
 
 **Last few moves, this game**
 
