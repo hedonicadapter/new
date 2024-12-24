@@ -33,7 +33,7 @@ jobs:
     - name: Setup Gems
       run: |
           gem install public_suffix -v 5.1.1
-          gem install faraday-net_http
+          gem install faraday-net_http -v 3.0.2
           gem install activesupport
           gem install octokit
           gem install chess
