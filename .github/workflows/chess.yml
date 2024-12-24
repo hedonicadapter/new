@@ -36,7 +36,7 @@ jobs:
           gem install faraday-net_http -v 3.0.2
           gem install securerandom -v 0.3.2
           gem install activesupport -v 7.1.5.1
-          gem install octokit
+          gem install octokit -v 4.21.0
           gem install chess
 
 
