@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/ff589df3-8a67-427d-b793-f9d5b4507c2c)
-< Literally me btw
+![Group 3(1)](https://github.com/user-attachments/assets/b01b09f8-eb27-463c-af08-cafbd3f43115)
 
 ## Education
 * University of Pennsylvania, Near Eastern Languages and Civilizations, Graduate Student
